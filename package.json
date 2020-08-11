@@ -1,0 +1,19 @@
+{
+  "name": "sessionbasedauthserver",
+  "version": "1.0.0",
+  "description": "an auth server using express-session",
+  "main": "config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quinnnnnnnnnn/SessionBasedAuthServer.git"
+  },
+  "author": "Quinn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/quinnnnnnnnnn/SessionBasedAuthServer/issues"
+  },
+  "homepage": "https://github.com/quinnnnnnnnnn/SessionBasedAuthServer#readme"
+}
