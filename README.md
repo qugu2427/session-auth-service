@@ -1,2 +1,2 @@
 # SessionBasedAuthServer
- A NodeJS auth server using express-session
+ an express session based auth server
