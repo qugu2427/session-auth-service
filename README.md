@@ -1,4 +1,4 @@
 # SessionBasedAuthServer
- an express session based auth server
+ an express session based auth server<br>
  
- Used with mongodb atlas.
+ just for personal use
